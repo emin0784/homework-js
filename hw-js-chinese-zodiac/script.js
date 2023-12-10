@@ -1,5 +1,5 @@
 
-let input = prompt("Birth Year:");
+let input = parseInt(prompt("Birth Year:"));
 let result = (input -4) % 12;
 
 if (result===0) {
