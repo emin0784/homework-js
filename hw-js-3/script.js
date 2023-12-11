@@ -51,7 +51,7 @@ function calculateAge(ageValue, ageType) {
 
 }
 
-calculateAge();
+calculateAge(ageValue,ageType);
 
 //======== Part 3 ========
 
